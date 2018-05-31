@@ -1,2 +1,6 @@
 # React native useful links
-- For animations: https://github.com/oblador/react-native-animatable
+## Animations
+- https://github.com/oblador/react-native-animatable
+## Unity3d
+- Unity3d component: https://github.com/f111fei/react-native-unity-view
+- Unity integration with xcode project: https://github.com/jiulongw/swift-unity
